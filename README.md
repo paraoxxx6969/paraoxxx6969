@@ -1,14 +1,16 @@
 <div align="center">
 
-# 👋 Hey, I'm Aryan Rawat
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan Rawat
 
-### Full Stack Developer • React • Three.js • AI • DevOps
+<img src="./assets/banner.svg" width="100%" alt="Aryan Rawat Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Three.js+%7C+Node.js;Smart+India+Hackathon+Developer;Always+Learning+Something+New+🚀" />
+<br>
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00FF88&lines=Full+Stack+Developer;React+%7C+Three.js+Developer;Building+Real+World+Projects;Smart+India+Hackathon+2026;Always+Learning+New+Things" />
 
-<img src="https://komarev.com/ghpvc/?username=paraoxxx6969&label=Profile%20Views&color=00ff88&style=for-the-badge" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=paraoxxx6969&style=for-the-badge&color=00ff88"/>
 
 </div>
 
