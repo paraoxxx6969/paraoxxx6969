@@ -79,9 +79,9 @@ const aryan = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=paraoxxx6969&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paraoxxx6969&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+</p>
 
 </div>
 ---
