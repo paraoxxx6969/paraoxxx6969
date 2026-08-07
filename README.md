@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="./assets/ascii-reveal.gif" width="420" alt="ASCII pixel-by-pixel profile reveal animation"/>
+<img src="https://raw.githubusercontent.com/paraoxxx6969/paraoxxx6969/main/assets/ascii-reveal.gif" width="420" alt="ASCII profile reveal animation"/>
 
 </div>
 
