@@ -1,15 +1,29 @@
-name: Test Actions
+name: Generate Snake
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  test:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Test
-        run: echo "GitHub Actions is working!"
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: paraoxxx6969
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
