@@ -96,29 +96,56 @@ const aryan = {
 
 ### 🌐 GITS Platform
 
-A modern college platform built with React, Firebase and modern UI principles.
+A modern college platform designed to manage student activities, certificates, events, and engagement through a clean web interface.
 
-**Tech Stack**
+**Tech**
 
-React • TypeScript • Tailwind CSS • Firebase
+`React` `TypeScript` `Tailwind CSS` `Firebase`
 
 <br>
 
 <a href="https://gits-dmce.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-00ff88?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%">
 
+### 🏙️ Urban Eye
+
+A civic reporting platform that allows users to report local issues, track complaints, and visualize reports through an interactive interface.
+
+**Tech**
+
+`React` `Context API` `JavaScript` `Maps`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%">
+
 ### 🏆 Smart India Hackathon
 
-AI-powered Complaint Portal for citizens with intelligent routing, tracking and analytics.
+A smart complaint-management concept focused on making civic complaint submission, routing, tracking, and resolution more efficient.
 
-**Tech Stack**
+**Focus**
 
-React • Node.js • AI • MongoDB
+`AI` `Automation` `Analytics` `Civic Tech`
+
+</td>
+
+<td width="50%">
+
+### 🩺 RuralCare+
+
+A low-bandwidth telemedicine concept designed around multilingual healthcare access, digital records, medicine availability, and AI-assisted support.
+
+**Focus**
+
+`React` `AI` `Healthcare` `Offline-first`
 
 </td>
 
