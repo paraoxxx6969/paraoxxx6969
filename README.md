@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00FF88&background=0D1117&center=false&vCenter=true&multiline=true&width=560&height=280&lines=%24+whoami;Aryan+Rawat;%24+cat+role.txt;Full+Stack+Developer;%24+cat+location.txt;Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+education.txt;B.E.+Information+Technology;%24+echo+%24MOTTO;Build.+Learn.+Improve.+Repeat." alt="terminal typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=560&height=50&lines=%24+whoami+%E2%86%92+Aryan+Rawat;%24+cat+role.txt+%E2%86%92+Full+Stack+Developer;%24+cat+location.txt+%E2%86%92+Mumbai%2C+India;%24+cat+education.txt+%E2%86%92+B.E.+IT;%24+echo+%24MOTTO+%E2%86%92+Build.+Learn.+Improve.+Repeat." alt="terminal typing animation"/>
 
 </div>
 
