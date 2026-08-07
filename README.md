@@ -151,8 +151,12 @@ React • Node.js • AI • MongoDB
 </div>
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paraoxxx6969/paraoxxx6969/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <img
+    src="https://raw.githubusercontent.com/paraoxxx6969/paraoxxx6969/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
