@@ -56,3 +56,20 @@ const aryan = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind,nodejs,express,firebase,mongodb,mysql,java,python,cpp,git,github,vscode,figma,docker&perline=10" />
 
 </div>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=paraoxxx6969&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=paraoxxx6969&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=paraoxxx6969&theme=github-dark&hide_border=true"/>
+
+</div>
