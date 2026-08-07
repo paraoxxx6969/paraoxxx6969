@@ -18,13 +18,13 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="floating tech stack animation"/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=560&height=50&lines=%24+whoami+%E2%86%92+Aryan+Rawat;%24+cat+role.txt+%E2%86%92+Full+Stack+Developer;%24+cat+location.txt+%E2%86%92+Mumbai%2C+India;%24+cat+education.txt+%E2%86%92+B.E.+IT;%24+echo+%24MOTTO+%E2%86%92+Build.+Learn.+Improve.+Repeat." alt="terminal typing animation"/>
 
 </div>
+
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="floating tech stack animation"/>
 
 ```bash
 aryan@dev:~$ cat currently-working-on.txt
@@ -42,6 +42,7 @@ aryan@dev:~$ cat interests.txt
 ```
 
 <br clear="right"/>
+
 
 ## 🛠️ Tech Stack
 
