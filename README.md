@@ -18,7 +18,6 @@
 
 ## 🚀 About Me
 
-
 ```ts
 const aryan = {
   name: "Aryan Rawat",
@@ -51,6 +50,7 @@ const aryan = {
   motto: "Build. Learn. Improve. Repeat."
 };
 ```
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -58,6 +58,7 @@ const aryan = {
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind,nodejs,express,firebase,mongodb,mysql,java,python,cpp,git,github,vscode,figma,docker&perline=10" />
 
 </div>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -75,6 +76,7 @@ const aryan = {
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=paraoxxx6969&theme=github-dark&hide_border=true"/>
 
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -83,10 +85,9 @@ const aryan = {
   <img src="https://github-profile-trophy.vercel.app/?username=paraoxxx6969&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
-</div>
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -123,9 +124,10 @@ React • Node.js • AI • MongoDB
 
 </tr>
 </table>
+
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -138,17 +140,7 @@ React • Node.js • AI • MongoDB
 </a>
 
 </div>
----
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Create. Learn. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=120&section=footer"/>
-
-</div>
 ---
 
 ## 🐍 Contribution Snake
@@ -160,3 +152,15 @@ React • Node.js • AI • MongoDB
     width="100%"
   />
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Create. Learn. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=120&section=footer"/>
+
+</div>
