@@ -20,37 +20,25 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="floating tech stack animation"/>
 
-```ts
-const aryan = {
-  name: "Aryan Rawat",
-  title: "Full Stack Developer",
+<div align="center">
 
-  location: "Mumbai, India 🇮🇳",
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00FF88&background=0D1117&center=false&vCenter=true&multiline=true&width=560&height=280&lines=%24+whoami;Aryan+Rawat;%24+cat+role.txt;Full+Stack+Developer;%24+cat+location.txt;Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%24+cat+education.txt;B.E.+Information+Technology;%24+echo+%24MOTTO;Build.+Learn.+Improve.+Repeat." alt="terminal typing animation"/>
 
-  education: "B.E. Information Technology",
+</div>
 
-  currentlyWorkingOn: [
-    "Smart India Hackathon 2026",
-    "GITS Platform",
-    "Modern Full Stack Applications"
-  ],
+```bash
+aryan@dev:~$ cat currently-working-on.txt
+> Smart India Hackathon 2026
+> GITS Platform
+> Modern Full Stack Applications
 
-  currentlyLearning: [
-    "System Design",
-    "DevOps",
-    "Artificial Intelligence"
-  ],
+aryan@dev:~$ cat currently-learning.txt
+> System Design
+> DevOps
+> Artificial Intelligence
 
-  interests: [
-    "Web Development",
-    "Three.js",
-    "Open Source",
-    "UI/UX",
-    "Problem Solving"
-  ],
-
-  motto: "Build. Learn. Improve. Repeat."
-};
+aryan@dev:~$ cat interests.txt
+> Web Development, Three.js, Open Source, UI/UX, Problem Solving
 ```
 
 <br clear="right"/>
