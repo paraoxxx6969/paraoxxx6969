@@ -16,44 +16,42 @@
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 ```typescript
 const aryan = {
-    name: "Aryan Rawat",
-    role: "Full Stack Developer",
-    location: "Mumbai, India 🇮🇳",
+  name: "Aryan Rawat",
+  role: "Full Stack Developer",
+  location: "Mumbai, India 🇮🇳",
 
-    education: "B.E. Information Technology",
+  education: "B.E. Information Technology",
 
-    currentlyBuilding: [
-        "Smart India Hackathon Project",
-        "GITS Platform",
-        "Modern Web Applications"
+  currentlyBuilding: [
+    "Smart India Hackathon Project",
+    "GITS Platform",
+    "Modern Web Applications"
+  ],
+
+  learning: [
+    "DevOps",
+    "System Design",
+    "Artificial Intelligence"
+  ],
+
+  techStack: {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Three.js",
+      "Tailwind CSS"
     ],
 
-    learning: [
-        "DevOps",
-        "System Design",
-        "Artificial Intelligence"
-    ],
-
-    techStack: {
-        frontend: [
-            "React",
-            "Next.js",
-            "TypeScript",
-            "Three.js",
-            "Tailwind CSS"
-        ],
-
-        backend: [
-            "Node.js",
-            "Express",
-            "Firebase",
-            "MongoDB",
-            "MySQL"
-        ]
-    }
+    backend: [
+      "Node.js",
+      "Express",
+      "Firebase",
+      "MongoDB",
+      "MySQL"
+    ]
+  }
 };
 ```
