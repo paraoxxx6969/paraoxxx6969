@@ -84,3 +84,68 @@ const aryan = {
 <img src="https://github-profile-trophy.vercel.app/?username=paraoxxx6969&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 GITS Platform
+
+A modern college platform built with React, Firebase and modern UI principles.
+
+**Tech Stack**
+
+React • TypeScript • Tailwind CSS • Firebase
+
+<br>
+
+<a href="https://gits-dmce.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🏆 Smart India Hackathon
+
+AI-powered Complaint Portal for citizens with intelligent routing, tracking and analytics.
+
+**Tech Stack**
+
+React • Node.js • AI • MongoDB
+
+</td>
+
+</tr>
+</table>
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/paraoxxx6969">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:rawataryan5953@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Create. Learn. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=120&section=footer"/>
+
+</div>
