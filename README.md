@@ -73,3 +73,12 @@ const aryan = {
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=paraoxxx6969&theme=github-dark&hide_border=true"/>
 
 </div>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=paraoxxx6969&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
