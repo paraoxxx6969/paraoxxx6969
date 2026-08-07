@@ -4,18 +4,20 @@
 
 ### Full Stack Developer • React • Three.js • AI • DevOps
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Three.js+%7C+Node.js;Smart+India+Hackathon+Developer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Three.js+%7C+Node.js;Smart+India+Hackathon+Developer;Always+Learning+Something+New+🚀" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=paraoxxx6969&label=Profile%20Views&color=00ff88&style=for-the-badge" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-<img src="https://komarev.com/ghpvc/?username=paraoxxx6969&label=Profile+Views&color=00ff88&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/paraoxxx6969?style=for-the-badge&color=00ff88&labelColor=0d1117" />
-
-<img src="https://img.shields.io/github/stars/paraoxxx6969?style=for-the-badge&color=00ff88&labelColor=0d1117" />
-
-</div>
+- 💻 Full Stack Developer
+- ⚛️ React & Three.js Enthusiast
+- 🤖 Exploring AI & DevOps
+- 🏆 Smart India Hackathon Developer
+- 🌱 Always learning new technologies
