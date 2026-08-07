@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**paraoxxx6969/paraoxxx6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Aryan Rawat
 
-Here are some ideas to get you started:
+### Full Stack Developer • React • Three.js • AI • DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Three.js+%7C+Node.js;Smart+India+Hackathon+Developer;Always+Learning+Something+New+🚀" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=paraoxxx6969&label=Profile+Views&color=00ff88&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/paraoxxx6969?style=for-the-badge&color=00ff88&labelColor=0d1117" />
+
+<img src="https://img.shields.io/github/stars/paraoxxx6969?style=for-the-badge&color=00ff88&labelColor=0d1117" />
+
+</div>
