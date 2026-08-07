@@ -149,3 +149,10 @@ React • Node.js • AI • MongoDB
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d1117&height=120&section=footer"/>
 
 </div>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paraoxxx6969/paraoxxx6969/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+</p>
